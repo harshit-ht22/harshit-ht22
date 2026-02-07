@@ -16,11 +16,11 @@
 - Problem Solving
 
 ## Major Projects
-- Smart Parking System – real-time parking tracking
-- Smart Dustbin Dashboard – ULB waste monitoring
-- Smart Agricultural Fencing – sensor-based security system
+- City Grid Monitor - To have a look on government policies that has been launched and not verified yet on ground level.
+- Civic-AI - An AI bridge gap to democartising AI resources.
+- Smart Agricultural Fencing – sensor-based security system.
 
 ## Goals for 2026
 - Contribute actively to open source
 - Get selected in GSoC
-- Become a strong full-stack developer
+- Become a strong Real World Problem Solver
